@@ -1,6 +1,12 @@
-# AY
+# ！！！！告知！！！！
 
-This template should help get you started developing with Vue 3 in Vite.
+vue3.0和express实现的师德考核系统，项目为前后端分离
+
+使用element-plus库
+
+大致框架，细节未完善，有需要同学可以自行补充
+
+cv一时爽，务必多动手实操
 
 ## Recommended IDE Setup
 
@@ -10,7 +16,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## 使用步骤
 
 ```sh
 npm install
